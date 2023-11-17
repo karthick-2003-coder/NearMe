@@ -2,7 +2,7 @@
 ## AIM
 To develop a website to display details about the places around my house.
 
-## DESIGN STEPS
+## DATE:1.11.2023
 
 ### STEP 1
 Create a Django admin interface.
