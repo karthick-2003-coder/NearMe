@@ -47,8 +47,18 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![Alt text](image.jpeg)
-![Alt text](image1.jpeg)
+![image](https://github.com/karthick-2003-coder/NearMe/assets/135232854/6af0e806-1c87-4dcc-8f8c-082db82f6369)
+![Screenshot (11)](https://github.com/karthick-2003-coder/NearMe/assets/135232854/22850b54-9924-43de-897c-1b007bd2acd9)
+![Screenshot (12)](https://github.com/karthick-2003-coder/NearMe/assets/135232854/5b7d5c07-4023-4e96-9ed0-a7863225ee08)
+![Screenshot (13)](https://github.com/karthick-2003-coder/NearMe/assets/135232854/a408d9ad-0de6-470a-a047-b43bad53207a)
+![Screenshot (14)](https://github.com/karthick-2003-coder/NearMe/assets/135232854/0afb869b-b787-4c02-b807-c02fadf19735)
+![Screenshot (15)](https://github.com/karthick-2003-coder/NearMe/assets/135232854/87a81d34-8ddd-4df7-8d32-6727007017cd)
+
+
+
+
+
+
 ## HTML VALIDATOR
 
 
